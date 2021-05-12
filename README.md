@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avinash Kumar Panda</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
+<h4 align="center">CSE Fresher at VSSUT,Burla</h4>
 <p align="left"> <img src="https://github.com/Avinashkp73/Avinashkp73/blob/main/florian-olivo-4hbJ-eymZ1o-unsplash.jpg" alt="Avinashkp" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashkp73&label=Profile%20views&color=0e75b6&style=flat" alt="avinashkp73" /> </p>
@@ -17,13 +18,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamavinash1d" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611605698335-8b1569810432?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1934&q=80" alt="iamavinash1d" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/avinash-kumar-panda-669131209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="avinash-kumar-panda-669131209" height="30" width="40" /></a>
-<a href="https://fb.com/avinash kumar panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="avinash kumar panda" height="30" width="40" /></a>
-<a href="https://instagram.com/theavinashkp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="theavinashkp" height="30" width="40" /></a>
-<a href="https://dribbble.com/avinashkp73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/dribbble.svg" alt="avinashkp73" height="30" width="40" /></a>
-<a href="https://medium.com/@theavinashkp73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@theavinashkp73" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/avinash-kumar-panda-669131209" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4E03AQEYozEc-3iauQ/profile-displayphoto-shrink_800_800/0/1615548024258?e=1626307200&v=beta&t=T6u411QHnpDWpA48njxho42IQ1LvAVdOLcKtXN8CNCA" alt="avinash-kumar-panda-669131209" height="30" width="40" /></a>
+<a href="https://fb.com/avinash kumar panda" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=967&q=80" alt="avinash kumar panda" height="30" width="40" /></a>
+<a href="https://instagram.com/theavinashkp" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611262588024-d12430b98920?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80" alt="theavinashkp" height="30" width="40" /></a>
+<a href="https://dribbble.com/avinashkp73" target="blank"><img align="center" src="https://cdn.dribbble.com/users/3951174/screenshots/6995470/media/5e99e8ccb14565c3f2d45644dba3ce0a.jpg" alt="avinashkp73" height="30" width="40" /></a>
+<a href="https://medium.com/@theavinashkp73" target="blank"><img align="center" src="https://images.unsplash.com/photo-1476242906366-d8eb64c2f661?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1608&q=80" alt="@theavinashkp73" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/avinashkp73" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="avinashkp73" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/theavinashkp73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="theavinashkp73" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/theavinashkp73" target="blank"><img align="center" src="https://s3.amazonaws.com/sr-marketplace-prod/wp-content/uploads/2015/08/hackerrank.jpg" alt="theavinashkp73" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
