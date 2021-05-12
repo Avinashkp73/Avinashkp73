@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avinash Kumar Panda</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 <p align="left"> <img src="https://github.com/Avinashkp73/Avinashkp73/blob/main/florian-olivo-4hbJ-eymZ1o-unsplash.jpg" alt="Avinashkp" /> </p>
-<img align="right" alt="Coding" width="400" src="https://github.com/Avinashkp73/Avinashkp73/blob/main/ronaldo-liu-M9U95Yy9huU-unsplash.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashkp73&label=Profile%20views&color=0e75b6&style=flat" alt="avinashkp73" /> </p>
 
@@ -9,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamavinash1d" target="blank"><img src="https://img.shields.io/twitter/follow/iamavinash1d?logo=twitter&style=for-the-badge" alt="iamavinash1d" /></a> </p>
 
-- 🌱 I’m currently learning **Python,Javascript**
+- 🌱 I’m currently learning ** C++;Python,Javascript**
 
 - 📫 How to reach me **theavinashkp73@gmail.com**
 
@@ -17,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iamavinash1d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="iamavinash1d" height="30" width="40" /></a>
+<a href="https://twitter.com/iamavinash1d" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611605698335-8b1569810432?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1934&q=80" alt="iamavinash1d" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/avinash-kumar-panda-669131209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="avinash-kumar-panda-669131209" height="30" width="40" /></a>
 <a href="https://fb.com/avinash kumar panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="avinash kumar panda" height="30" width="40" /></a>
 <a href="https://instagram.com/theavinashkp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="theavinashkp" height="30" width="40" /></a>
