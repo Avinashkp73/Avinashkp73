@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avinash Kumar Panda</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 <p align="left"> <img src="https://github.com/Avinashkp73/Avinashkp73/blob/main/florian-olivo-4hbJ-eymZ1o-unsplash.jpg" alt="Avinashkp" /> </p>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/6649910-Sentry-For-Good">
+<img align="right" alt="Coding" width="400" src="https://github.com/Avinashkp73/Avinashkp73/blob/main/ronaldo-liu-M9U95Yy9huU-unsplash.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashkp73&label=Profile%20views&color=0e75b6&style=flat" alt="avinashkp73" /> </p>
 
