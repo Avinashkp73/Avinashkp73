@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash Kumar Panda</h1>
-<h3 align="center">Aspiring Full Stack Web Developer</h3>
+<h3 align="center">Aspire to Inspire</h3>
 <h4 align="center">CSE Fresher at VSSUT,Burla</h4>
 <p align="left"> <img src="https://github.com/Avinashkp73/Avinashkp73/blob/main/florian-olivo-4hbJ-eymZ1o-unsplash.jpg" alt="Avinashkp" /> </p>
 
