@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamavinash1d" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611605698335-8b1569810432?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1934&q=80" alt="iamavinash1d" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/avinash-kumar-panda-669131209" target="blank"><img align="center" src="https://unsplash.com/photos/9Zjd7PE_FRM" alt="avinash-kumar-panda-669131209" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/avinash-kumar-panda-669131209" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1934&q=80" alt="avinash-kumar-panda-669131209" height="30" width="40" /></a>
 <a href="https://fb.com/avinash kumar panda" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=967&q=80" alt="avinash kumar panda" height="30" width="40" /></a>
 <a href="https://instagram.com/theavinashkp" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611262588024-d12430b98920?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80" alt="theavinashkp" height="30" width="40" /></a>
 <a href="https://dribbble.com/avinashkp73" target="blank"><img align="center" src="https://cdn.dribbble.com/users/3951174/screenshots/6995470/media/5e99e8ccb14565c3f2d45644dba3ce0a.jpg" alt="avinashkp73" height="30" width="40" /></a>
