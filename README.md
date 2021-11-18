@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avinash Kumar Panda</h1>
 <h3 align="center">Aspire to Inspire</h3>
-<h4 align="center">CSE Fresher at VSSUT,Burla</h4>
+<h4 align="center">CSE Sophomore at VSSUT,Burla</h4>
 <p align="left"> <img src="https://github.com/Avinashkp73/Avinashkp73/blob/main/florian-olivo-4hbJ-eymZ1o-unsplash.jpg" alt="Avinashkp" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashkp73&label=Profile%20views&color=0e75b6&style=flat" alt="avinashkp73" /> </p>
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamavinash1d" target="blank"><img src="https://img.shields.io/twitter/follow/iamavinash1d?logo=twitter&style=for-the-badge" alt="iamavinash1d" /></a> </p>
 
-- 🌱 I’m currently learning ** C++;Python,Javascript**
+- 🌱 I’m currently learning ** Kotlin;Python,React**
 
 - 📫 How to reach me **theavinashkp73@gmail.com**
 
