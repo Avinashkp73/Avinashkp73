@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Avinash Kumar Panda</h1>
+<h2 align="center">Hi 👋, I'm Avinash Kumar Panda</h2>
+<h1 align="center">MERN Stack Developer</h1>
 <h3 align="center">Aspire to Inspire</h3>
 <h4 align="center">Final Year CSE at VSSUT,Burla</h4>
 <p align="left"> <img src="https://github.com/Avinashkp73/Avinashkp73/blob/main/florian-olivo-4hbJ-eymZ1o-unsplash.jpg" alt="Avinashkp" /> </p>
@@ -9,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/iamavinash1d" target="blank"><img src="https://img.shields.io/twitter/follow/iamavinash1d?logo=twitter&style=for-the-badge" alt="iamavinash1d" /></a> </p>
 
-- 🌱 I’m currently learning ** Nodejs**
+- 🌱 I’m currently ** Looking for a fulltime job**
 
 - 📫 How to reach me **theavinashkp73@gmail.com**
 
-- ⚡ Fun fact **I Like Chocolates**
+- ⚡ Fun fact **I have a very sensitive nose**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
